@@ -1,0 +1,5 @@
+We encrypted the flag. Apply the documented sequence of transformations, in
+order, to the seed value. There is exactly one correct path — deviate and you
+get garbage.
+
+Download: README.txt

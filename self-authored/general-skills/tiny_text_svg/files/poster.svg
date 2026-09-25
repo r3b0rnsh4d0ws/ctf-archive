@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <rect width="800" height="220" fill="#0d1117"/>
+  <text x="20" y="60" font-family="monospace" font-size="24" fill="#39d353">Congratulations, you can see. But can you READ what you see?</text>
+  <text x="20" y="110" font-family="monospace" font-size="14" fill="#8b949e">Some text is printed so small it is invisible at normal zoom.</text>
+  <text x="10" y="130" font-family="monospace" font-size="0.01" fill="#39d353">synt{mbbz_naq_raunapr_yvxr_n_fcl_zbivr}</text>
+  <text x="20" y="180" font-family="monospace" font-size="14" fill="#8b949e">hint: the tiny text above is encoded with a classic 13-shift cipher.</text>
+</svg>

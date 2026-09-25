@@ -1,0 +1,5 @@
+A developer "protected" the flag inside this Python script using advanced
+polymorphic anti-tamper encryption (ring -3, quantum-resistant, the works).
+Reverse the obfuscation to recover the flag. There is exactly one way out.
+
+Download: vault.py

@@ -1,0 +1,5 @@
+A developer pushed a repository and swears they "never put the secret in a
+file." They are technically correct, which is the best kind of correct. The
+answer is in the project's history — but not where you would normally look.
+
+Download: repo/ (a git repository)

@@ -1,0 +1,6 @@
+Our web server logged every request for a year. Somewhere in access.log there
+is a request that should never have been made public. The flag is not written
+anywhere as text — it was transmitted one byte at a time. You will have to
+reconstruct it from the traffic.
+
+Download: access.log

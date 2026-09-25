@@ -1,0 +1,4 @@
+We rendered the flag onto a poster. Open poster.svg in your browser. The flag
+is on the poster — but it may not be in a form you can read directly.
+
+Download: poster.svg

@@ -1,0 +1,44 @@
+# Web3 Writeups
+
+| Event | Writeup |
+|---|---|
+| SCAN-2026 | [scan2026_ch10_tokenlock_overcredit.md](SCAN-2026/Web3/scan2026_ch10_tokenlock_overcredit.md) |
+| SCAN-2026 | [scan2026_ch1_flag2_fund_flow.md](SCAN-2026/Web3/scan2026_ch1_flag2_fund_flow.md) |
+| SCAN-2026 | [scan2026_ch1_fund_flow.md](SCAN-2026/Web3/scan2026_ch1_fund_flow.md) |
+| SCAN-2026 | [scan2026_ch2_flag1_funding_service.md](SCAN-2026/Web3/scan2026_ch2_flag1_funding_service.md) |
+| SCAN-2026 | [scan2026_ch2_flag2_memo_program.md](SCAN-2026/Web3/scan2026_ch2_flag2_memo_program.md) |
+| SCAN-2026 | [scan2026_ch3_drainer.md](SCAN-2026/Web3/scan2026_ch3_drainer.md) |
+| SCAN-2026 | [scan2026_ch4_ch5_contract_tracing.md](SCAN-2026/Web3/scan2026_ch4_ch5_contract_tracing.md) |
+| SCAN-2026 | [scan2026_ch4_flag2_bytecode_disasm.md](SCAN-2026/Web3/scan2026_ch4_flag2_bytecode_disasm.md) |
+| SCAN-2026 | [scan2026_ch4_flag3.md](SCAN-2026/Web3/scan2026_ch4_flag3.md) |
+| SCAN-2026 | [scan2026_ch4_flag4_contract_count.md](SCAN-2026/Web3/scan2026_ch4_flag4_contract_count.md) |
+| SCAN-2026 | [scan2026_ch4_flag5_bytecode_families.md](SCAN-2026/Web3/scan2026_ch4_flag5_bytecode_families.md) |
+| SCAN-2026 | [scan2026_ch4_flag6_setter_count.md](SCAN-2026/Web3/scan2026_ch4_flag6_setter_count.md) |
+| SCAN-2026 | [scan2026_ch4_flag7_tiers.md](SCAN-2026/Web3/scan2026_ch4_flag7_tiers.md) |
+| SCAN-2026 | [scan2026_ch4_flag8_earliest_funding.md](SCAN-2026/Web3/scan2026_ch4_flag8_earliest_funding.md) |
+| SCAN-2026 | [scan2026_ch4_flag9_intervals.md](SCAN-2026/Web3/scan2026_ch4_flag9_intervals.md) |
+| SCAN-2026 | [scan2026_ch5_flag2_multichain.md](SCAN-2026/Web3/scan2026_ch5_flag2_multichain.md) |
+| SCAN-2026 | [scan2026_ch5_flag3_operator.md](SCAN-2026/Web3/scan2026_ch5_flag3_operator.md) |
+| SCAN-2026 | [scan2026_ch6_flag2_tc_withdrawals.md](SCAN-2026/Web3/scan2026_ch6_flag2_tc_withdrawals.md) |
+| SCAN-2026 | [scan2026_ch6_flag3_intermediary.md](SCAN-2026/Web3/scan2026_ch6_flag3_intermediary.md) |
+| SCAN-2026 | [scan2026_ch6_flag4_tron_consolidation.md](SCAN-2026/Web3/scan2026_ch6_flag4_tron_consolidation.md) |
+| SCAN-2026 | [scan2026_ch6_tornado.md](SCAN-2026/Web3/scan2026_ch6_tornado.md) |
+| SCAN-2026 | [scan2026_ch7_flag1_explorer_labels.md](SCAN-2026/Web3/scan2026_ch7_flag1_explorer_labels.md) |
+| SCAN-2026 | [scan2026_ch7_flag2_stablecoin_freeze_audit.md](SCAN-2026/Web3/scan2026_ch7_flag2_stablecoin_freeze_audit.md) |
+| SCAN-2026 | [scan2026_ch7_flag3_lazarus_blacklist.md](SCAN-2026/Web3/scan2026_ch7_flag3_lazarus_blacklist.md) |
+| SCAN-2026 | [scan2026_ch7_flag4_ronin_usdc_laundering.md](SCAN-2026/Web3/scan2026_ch7_flag4_ronin_usdc_laundering.md) |
+| SCAN-2026 | [scan2026_ch8_flag3_exch_deposits.md](SCAN-2026/Web3/scan2026_ch8_flag3_exch_deposits.md) |
+| SCAN-2026 | [scan2026_ch8_flag4_exch_btc_payout.md](SCAN-2026/Web3/scan2026_ch8_flag4_exch_btc_payout.md) |
+| SCAN-2026 | [scan2026_ch8_flag5_exch_btc_payout.md](SCAN-2026/Web3/scan2026_ch8_flag5_exch_btc_payout.md) |
+| SCAN-2026 | [scan2026_ch8_stablecoin_swap.md](SCAN-2026/Web3/scan2026_ch8_stablecoin_swap.md) |
+| SCAN-2026 | [scan2026_ch9_dex_admin_fee_skim.md](SCAN-2026/Web3/scan2026_ch9_dex_admin_fee_skim.md) |
+| SCAN-2026 | [scan2026_challenge-#3-flag-2.md](SCAN-2026/Web3/scan2026_challenge-%233-flag-2.md) |
+| SCAN-2026 | [scan2026_challenge-#3-flag-3.md](SCAN-2026/Web3/scan2026_challenge-%233-flag-3.md) |
+| SCAN-2026 | [scan2026_challenge-#3-flag-4.md](SCAN-2026/Web3/scan2026_challenge-%233-flag-4.md) |
+| SCAN-2026 | [scan2026_challenge-#3-flag-5.md](SCAN-2026/Web3/scan2026_challenge-%233-flag-5.md) |
+| SCAN-2026 | [scan2026_challenge-#5-flag-4.md](SCAN-2026/Web3/scan2026_challenge-%235-flag-4.md) |
+| SCAN-2026 | [scan2026_challenge-#5-flag-5.md](SCAN-2026/Web3/scan2026_challenge-%235-flag-5.md) |
+| SCAN-2026 | [scan2026_challenge-#5-flag-6.md](SCAN-2026/Web3/scan2026_challenge-%235-flag-6.md) |
+| SCAN-2026 | [scan2026_challenge-#5-flag-7.md](SCAN-2026/Web3/scan2026_challenge-%235-flag-7.md) |
+| SCAN-2026 | [scan2026_challenge-#5-flag-8.md](SCAN-2026/Web3/scan2026_challenge-%235-flag-8.md) |
+| SCAN-2026 | [scan2026_challenge-#8-flag-2.md](SCAN-2026/Web3/scan2026_challenge-%238-flag-2.md) |

@@ -1,0 +1,7 @@
+A very important confidential document was left on this server. It looks empty,
+but nothing is ever truly empty. The flag is encoded in the document using only
+characters you cannot see.
+
+Hint: not every character moves the cursor forward.
+
+Download: blank.txt

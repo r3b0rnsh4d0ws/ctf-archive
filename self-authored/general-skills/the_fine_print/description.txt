@@ -1,0 +1,5 @@
+ACME updated their Terms of Service again. Legal requires you to read every
+word. The flag is defined by the document itself — you must follow its embedded
+reading instructions exactly. It is not written down anywhere in one piece.
+
+Download: terms_of_service.txt

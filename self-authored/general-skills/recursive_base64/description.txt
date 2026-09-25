@@ -1,0 +1,5 @@
+A single file. It is base64. Our analysts were, again, paid by the hour and
+love base64. Decode it. Then decode the result. Keep going until it stops being
+base64. There is exactly one correct interpretation.
+
+Download: data.b64
